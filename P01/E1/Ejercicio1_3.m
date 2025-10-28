@@ -1,0 +1,10 @@
+A = zeros(4);
+B = zeros(2,3);
+C = ones(1, 3);
+D = ones(3, 1);
+A = eye(3);
+B = eye(2);
+D = magic(3);
+C = rand(3,6);
+x = [-1 3 1 4];
+M = diag(x)

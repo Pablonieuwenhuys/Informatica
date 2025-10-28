@@ -1,0 +1,12 @@
+Numero: 167 Notas: 6.8 1.5 9.0 4.5 5.4
+Numero: 125 Notas: 5.6 2.5 9.2 4.5 6.4
+Numero: 847 Notas: 4.6 3.5 9.8 4.5 7.4
+Numero: 567 Notas: 8.6 4.5 9.4 4.5 9.4
+Numero: 132 Notas: 9.6 5.5 1.1 4.5 3.4
+Numero: 589 Notas: 2.6 6.5 8.1 4.5 2.4
+Numero: 753 Notas: 1.6 7.5 6.1 4.5 8.4
+Numero: 869 Notas: 6.7 8.5 5.1 4.5 7.4
+Numero: 111 Notas: 6.3 3.5 7.1 4.5 5.4
+Numero: 333 Notas: 5.3 4.3 3.7 9.1 4.5 
+Numero: 888 Notas: 3.4 2.5 8.1 4.5 5.4
+Numero: 941 Notas: 2.6 1.5 5.1 4.5 5.4

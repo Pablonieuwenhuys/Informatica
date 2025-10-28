@@ -1,0 +1,18 @@
+a = input("Introduzca el vector a en corchetes: ");
+b = input("Introduzca el vector b en corchetes: ");
+
+% de test:
+a = [1 2 5 8];
+b = [2 2 3 4];
+
+if length(a)== length(b)
+    nElems = length(a);
+else
+    disp("Los vectores no son de la misma talla")
+end
+v_suma = [];
+for i=1:nElems
+    v_suma(i) = a(i)+b(i);
+end
+
+disp(v_suma)

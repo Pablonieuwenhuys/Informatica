@@ -1,0 +1,6 @@
+userI = input("Introduzca la convesion, 1: C->F o 2: F->C: ")
+if userI == 1
+    
+    % codigo para pasar a C
+else if userI == 2
+

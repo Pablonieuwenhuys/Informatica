@@ -1,0 +1,68 @@
+% Cadenas de caracteres o strings, son vectores de caracteres (letras,nums
+% signos, espacios ...)
+% TODO: terminar, te falta los 3 ultimos slides de la presentacion
+
+%%
+% Dale a run y fijate en el workspace
+% Veras debajo de Size, 1x11 ya que "Hello World" tiene 1 fila, 11 columnas
+% (Una columna para cada caracter)
+% Debajo de Class, veras char, que significa que es variable de tipo char (caracter)
+
+mensaje = 'Hello World'
+
+%Es importante saber que ASCII es un estandar de codificacion de caracteres
+
+%%
+%Matriz de caracteres:
+%Por definicon de matriz todas las filas tienen que tener el mismo numero
+%de caracteres
+
+% Si le days a run beras como esto crea un 2x3 char array, array es un
+% termino mas general para vector o matriz. 
+
+Mchars = ['o' 'n' 'e';'t' 'w' 'o']
+%%
+% Concatenando palabras
+% Si quieres hacer una matriz del famoso tridente, habra un error
+%m2 = ['algebra';'calculo';'fisica']
+
+% PARA PODER EJECUTAR CODIGO DEBAJO PONER UN % ANTES DE LINEA 25
+
+% Cuando vemos esto podriamos pensar que Matlab lo interpreta como una
+% matriz 1x3, PERO NO! Acuerdate que cada una de las palabras se convierte
+% en un vector de caracteres. Como cada palabra tiene un numero de
+% caracteres diferentes, pues la matriz no tendra el mismo numero de
+% columnas en cada fila y habra un error
+
+
+% Para resolver esto utilizamos la funcion char() que hara que las palabras
+% tienen la misma dimension vectorial
+%% 
+m2 = char('algebra', 'calculo','fisica')
+
+%%
+% Funciones para caracteres
+% double(char): Convierte en numeros ASCII cada caracter del vector ej:
+asciiValues = double(m2)
+
+% char(v): convierte un vector de numeros ASCII en una cadena de caracteres
+% Puede parecer una tonteria pero super importante para datos, desarollo de
+% modelos de IA etc...
+
+v = [97   108   103   101    98   114    97]
+algebra = char(v)
+
+deblank(c)% Elimina los blancos al final de la cadena de caracteres c
+
+ischar(c) % detecta si c es una cadena de caracteres o no
+
+isletter(c) %detecta si un caracter c es una letra del alfabeto
+
+isspace(c) % detecta si un caracter c es un espacio
+
+%OJO IMPORTANTE
+
+strcmp(s1,s2) %comparacion de cadenas
+strcmpi(s1,s2) %comparacion de cadenas pero ignorando mayuscula/minusicula
+
+% Mas funciones para manejar cadenas de caracteres:

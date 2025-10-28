@@ -1,0 +1,15 @@
+%% a 
+a = input("introduzca el valor a")
+b = input("introduzca el valor b")
+c = input("introduzca el valor c")
+
+%%b 
+if b*b - 4*a*c >= 0
+    disp("Las raices son reales")
+else 
+    disp("Las raices son imaginarias")
+end
+
+%% c
+x1 = (-b+power((b*b-4*a*c), 0.5)/(2*a))
+x2 = (-b-power((b*b-4*a*c), 0.5)/(2*a))

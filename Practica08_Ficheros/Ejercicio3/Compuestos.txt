@@ -1,0 +1,6 @@
+Cantidad elementos: 2 Formula: 1 * C + 2 * O Nombre: Dioxido_de_carbono
+Cantidad elementos: 2 Formula: 2 * H + 1 * O Nombre: Agua
+Cantidad elementos: 2 Formula: 1 * C + 1 * O Nombre: Monoxido_de_carbono
+Cantidad elementos: 3 Formula: 2 * H + 1 * S + 4 * O Nombre: Acido_sulfurico
+Cantidad elementos: 3 Formula: 1 * Fe + 2 * O + 2 * H Nombre: Hidróxido_de_hierro
+Cantidad elementos: 4 Formula: 1 * Ag + 1 * C + 1 * N + 1 * O Nombre: Fulminato_de_plata

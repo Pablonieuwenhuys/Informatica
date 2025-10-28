@@ -1,0 +1,4 @@
+function media = CalcularMediaAlumno(notas, )
+
+[nf,nc] = size(notas)
+id2 = fopen('Medias.txt')

@@ -1,0 +1,4 @@
+clear
+n = input("Numero que quiera que se calcule el factorial")
+for i=n:-1:0
+    

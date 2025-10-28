@@ -1,0 +1,12 @@
+Numero: 167 Media:5.440000
+Numero: 125 Media:5.640000
+Numero: 847 Media:5.960000
+Numero: 567 Media:7.280000
+Numero: 132 Media:4.820000
+Numero: 589 Media:4.820000
+Numero: 753 Media:5.620000
+Numero: 869 Media:6.440000
+Numero: 111 Media:5.360000
+Numero: 333 Media:5.380000
+Numero: 888 Media:4.780000
+Numero: 941 Media:3.820000

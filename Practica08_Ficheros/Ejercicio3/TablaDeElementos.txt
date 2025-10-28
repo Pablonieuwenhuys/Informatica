@@ -1,0 +1,59 @@
+Elemento: Hidrogeno
+Simbolo: H
+Masa: 1.0079
+Numero: 1
+
+Elemento: Carbono
+Simbolo: C
+Masa: 12.011
+Numero: 6
+
+Elemento: Litio
+Simbolo: Li
+Masa: 6.94
+Numero: 3
+
+Elemento: Hierro
+Simbolo: Fe
+Masa: 55.84
+Numero: 26
+
+Elemento: Oxigeno
+Simbolo: O
+Masa: 15.999
+Numero: 8
+
+Elemento: Oro
+Simbolo: Au
+Masa: 196.96657
+Numero: 79
+
+Elemento: Helio
+Simbolo: He
+Masa: 4.00260
+Numero: 2
+
+Elemento: Plata
+Simbolo: Ag
+Masa: 107.868
+Numero: 47
+
+Elemento: Boro
+Simbolo: B
+Masa: 10.81
+Numero: 5
+
+Elemento: Cloro
+Simbolo: Cl
+Masa: 35.45
+Numero: 17
+
+Elemento: Nitrogeno
+Simbolo: N
+Masa: 14.007
+Numero: 7
+
+Elemento: Sulfuro
+Simbolo: S
+Masa: 32.06
+Numero: 16
